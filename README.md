@@ -1,2 +1,2 @@
 # JavaProject
-folder container all project developed in Java
+This folder contain all project that I have developed in Java.
